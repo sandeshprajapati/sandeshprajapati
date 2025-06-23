@@ -55,8 +55,6 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sandeshprajapati)  
-📧 Email: sandesh0159@gmail.com  
-📱 Phone: +91-XXXXXXXXXX1
 
 ---
 
